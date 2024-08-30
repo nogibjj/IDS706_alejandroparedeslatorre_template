@@ -36,4 +36,5 @@ The purpose of this project is to have a python template that includes a main.py
 ![make lint](lint.JPG)
 
 3. Test code `make test`
-![make lint](test.png)
+
+![make lint](test.JPG)
