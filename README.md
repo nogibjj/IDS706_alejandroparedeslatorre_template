@@ -12,8 +12,6 @@ According to the requirement it gets added
 
 * `Dockerfile`
 
-* `devcontainer`
-
 * `requirements.txt` with a set of specifications
 
 * `githubactions` 
